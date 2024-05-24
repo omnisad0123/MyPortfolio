@@ -19,6 +19,7 @@ import {
     starbucks,
     shopify,
     iitbhu,
+
     carrent,
     jobit,
     tripguide,
@@ -26,7 +27,7 @@ import {
     livelink,
     pass
     } from "../assets";
-  
+  import {iitbhu1}  from "../assets";
   export const navLinks = [
     {
       id: "about",
@@ -241,7 +242,7 @@ import {
     {
       title: "Machine Learning Intern",
       company_name: "IIT BHU",
-      icon: iitbhu,
+      icon: iitbhu1,
       iconBg: "#383E56",
       date: "May 2024 - July 2024",
       points: [
